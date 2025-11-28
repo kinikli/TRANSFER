@@ -170,6 +170,7 @@ namespace FileUploadPortal.Services
         /// Her istekte I/O işlemi yapmak yerine bellekten okur
         /// 
         /// KINIKLI - Cache mechanism for performance
+        /// 
         /// </summary>
         public SmtpSettings GetSmtpSettings()
         {
@@ -829,3 +830,4 @@ Developer: KINIKLI",
         }
     }
 }
+
